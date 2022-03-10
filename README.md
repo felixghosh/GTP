@@ -1,2 +1,2 @@
 # GTP
-Ghosh Transfer Protocol - a very light file server, inspired by FTP
+Ghosh Transfer Protocol (GTP), is a very light file server inspired by FTP.
