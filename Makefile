@@ -1,7 +1,7 @@
 server:
-	gcc src/server.c -o server -g -O3
-	./server
+	gcc src/server.c -o out/server -g -O3
+	./out/server
 
 client:
-	gcc src/client.c -o client -g -O3
-	./client
+	gcc src/client.c -o out/client -g -O3
+	./out/client
